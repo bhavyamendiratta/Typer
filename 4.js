@@ -38,6 +38,11 @@ var typeWriter = function (index) {
     }, totalTime);
 };
 // calculated time delays
+var hritime =2;
+for(var i=0;i<10;i++)
+{
+    
+}
 var delayTime = [timeInit];
 var cumulativeDelayTime = [timeInit];
 for (var i = 0; i < originId.length; i++) {
